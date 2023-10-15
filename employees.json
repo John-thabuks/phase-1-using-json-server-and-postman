@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "department": "finance",
+            "manager": "Brian Joe",
+            "funds": "$50000"
+        },
+        {
+            "id": 2,
+            "department": "Human Resource",
+            "manager": "Esther Ndirangu",
+            "funds": "$10000"
+        },
+        {
+            "id": 3,
+            "department": "Logistics",
+            "manager": "Grace Wairimu",
+            "funds": "$80000"
+        }
+    ],
+    "logins": {
+        "1": {
+            "id":1,
+            "name": "Brian Joe",
+            "email": "brian.joe@company.com"
+        },
+        "2":{
+            "id":2,
+            "name": "Esther Ndirangu",
+            "email": "esther.ndirangu@company.com"
+        },
+        "3": {
+            "id":3,
+            "name": "Grace Wairimu",
+            "email": "grace.wairimu@company.com"
+        }
+    }
+}
